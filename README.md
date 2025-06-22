@@ -11,7 +11,7 @@ MIT App Inventor를 활용하여 다양한 번역 기능(텍스트, 음성, 이�
 - 번역 기능에 Google Translate API, OCR API 사용
 - 현지 시간 표시 기능 등 여행 시 활용 가능성을 고려한 설계
 
-## 초기 웹 디자인 구상도
+## 📝 초기 웹 디자인 구상도
 ![image](https://github.com/user-attachments/assets/88b48ab9-4df8-4811-b04d-d359eaa85e19)
 
 ## 📱 주요 기능 및 구조
